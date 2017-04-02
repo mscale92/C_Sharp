@@ -11,8 +11,8 @@ namespace MultiplierApp
 
         public void NumberValues()
         {
-            number1 = 3;
-            number2 = 8;
+            number1 = 3221;
+            number2 = 10004;
         }
 
         public double Multiply()
