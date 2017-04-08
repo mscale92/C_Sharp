@@ -43,7 +43,7 @@ namespace MyFactorial
             else
             {
                 
-                //convert the string into an integer and assign it to userNum
+                //convert the string into an integer and pop it into our Factorial function
                 Console.WriteLine("The factorial is {0}", Factorial(Int32.Parse(usersAns)));
             }
 
